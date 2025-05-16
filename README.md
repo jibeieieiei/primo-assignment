@@ -12,3 +12,5 @@
 3. For isSorted function (function which check your array already sort by ascending or descending) go to the file name `is_sorted.test.js`
 
 ### Link
+
+https://youtu.be/PN-cmbM6ojs
