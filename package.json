@@ -1,0 +1,24 @@
+{
+  "name": "primo-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "ts-node": "^10.9.2"
+  }
+}
